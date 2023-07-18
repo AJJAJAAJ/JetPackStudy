@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">JetPack</string>
-    <string name="number">Number</string>
-    <string name="plus1">+1</string>
-    <string name="plus2">+2</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score_a">0</string>
+    <string name="add_1">+1</string>
+    <string name="add_2">+2</string>
+    <string name="add_3">+3</string>
+    <string name="change">switch</string>
+    <string name="refresh">refresh</string>
 </resources>
