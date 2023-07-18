@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">JetPack</string>
-    <string name="name_hint">请输入账号</string>
-    <string name="password_hint">请输入密码</string>
-    <string name="version">beta.1.0</string>
-    <string name="login">登录</string>
-    <string name="icon">login_icon</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score_a">0</string>
+    <string name="add_1">+1</string>
+    <string name="add_2">+2</string>
+    <string name="add_3">+3</string>
+    <string name="change">switch</string>
+    <string name="refresh">refresh</string>
 </resources>
